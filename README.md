@@ -2,7 +2,9 @@
 
 **`Estudante de Sistemas de Informação`**
 
-Me chamo Elis, tenho 21 anos, atualmente curso Sistemas de Informação no IFBA. Adoro tecnologia e inovação, e a área que mais me interessa dentro da TI é a de Dados. No meu LinkedIn, "[Elis Weiss](https://www.linkedin.com/in/elis-weiss/)", compartilho mais interesses e informações sobre mim e minha carreira profissional. :)
+Olá! 👋🏻
+
+Sou Elis, estudante de Sistemas de Informação. Atualmente foco meus estudos na área da Ciência de Dados, desenvolvendo projetos com **Python, EDA, ETL e Machine Learning**. No meu LinkedIn, [Elis Weiss](https://www.linkedin.com/in/elis-weiss/), compartilho mais interesses e informações sobre mim e minha carreira profissional.
 
 ## 🧩 Linguagens e Tecnologias
 <img 
